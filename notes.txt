@@ -1,0 +1,29 @@
+#Rebuilding Rails
+
+###Rebuilding Rails for Yourself
+Known for being magical, which is why maybe making the magic happen yourself is a good idea
+You also get to make your own decisions about the magic instead of being at the beckon’ call of someone else’s magic
+They suggest you know Ruby, and of course I don’t know any, so here goes
+They have suggestions for Ruby and Rails tutorials on p. 8
+Plan to debug and struggle but don’t let yourself get really stuck
+End of chapters have pointers for Rails source - worth it because source is just 25k lines so just get ok with reading it and finding what you want
+Rails source teaches you Ruby tricks and is interesting example of metaprogramming
+SQLite stores db locally, please don’t deploy on it
+
+###Zero to “It Works!”
+
+###Your First Controller
+
+###Rails Automatic Loading
+
+###Rendering Views
+
+###Basic Models
+
+###Request, Response
+
+###The Littlest ORM
+
+###Rack Middleware
+
+###Real Routing
